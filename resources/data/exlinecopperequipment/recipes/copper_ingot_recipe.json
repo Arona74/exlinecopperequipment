@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "exlinecopperequipment:copper_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:copper_ingot"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B",
+        "S",
+        "S"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:copper_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "exlinecopperequipment:copper_shovel"
+    }
+}

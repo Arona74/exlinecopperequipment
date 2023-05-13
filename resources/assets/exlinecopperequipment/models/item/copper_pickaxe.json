@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "exlinecopperequipment:item/copper_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.25
+            },
+            "model": "exlinecopperequipment:item/exposed_copper_pick"
+        },
+        {
+            "predicate": {
+                "damage": 0.50
+            },
+            "model": "exlinecopperequipment:item/weathered_copper_pick"
+        },
+        {
+            "predicate": {
+                "damage": 0.75
+            },
+            "model": "exlinecopperequipment:item/oxidized_copper_pick"
+        }
+    ]
+}

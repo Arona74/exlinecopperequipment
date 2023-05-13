@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "exlinecopperequipment:copper_sword"
+  },
+  "result": "exlinecopperequipment:copper_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

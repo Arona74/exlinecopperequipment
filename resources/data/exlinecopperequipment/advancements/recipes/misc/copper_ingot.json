@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "exlinecopperequipment:copper_nugget_recipe",
+      "exlinecopperequipment:copper_ingot_recipe",
+      "exlinecopperequipment:copper_axe_recipe",
+      "exlinecopperequipment:copper_shovel_recipe",
+      "exlinecopperequipment:copper_sword_recipe",
+      "exlinecopperequipment:copper_pick_recipe",
+      "exlinecopperequipment:copper_axe_recipe",
+      "exlinecopperequipment:copper_hoe_recipe",
+      "exlinecopperequipment:copper_boots_recipe",
+      "exlinecopperequipment:copper_chestplate_recipe",
+      "exlinecopperequipment:copper_leggings_recipe",
+      "exlinecopperequipment:copper_helmet_recipe",
+      "exlinecopperequipment:copper_horse_armor_recipe",
+      "exlinecopperequipment:copper_hammer_recipe"
+    ]
+  },
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredient"
+    ]
+  ]
+}
