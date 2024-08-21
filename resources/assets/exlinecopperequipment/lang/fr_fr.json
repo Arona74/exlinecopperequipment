@@ -1,0 +1,24 @@
+{
+  "itemGroup.exlinecopperequipment.tab": "Copper Equipment",
+
+  "item.exlinecopperequipment.copper_nugget": "Pépite de cuivre",
+
+  "item.exlinecopperequipment.copper_helmet": "Casque en cuivre",
+  "item.exlinecopperequipment.copper_chestplate": "Plastron en cuivre",
+  "item.exlinecopperequipment.copper_leggings": "Jambières en cuivre",
+  "item.exlinecopperequipment.copper_boots": "Bottes en cuivre",
+
+  "item.exlinecopperequipment.copper_pickaxe": "Pioche en cuivre",
+  "item.exlinecopperequipment.copper_axe": "Hache en cuivre",
+  "item.exlinecopperequipment.copper_hoe": "Houe en cuivre",
+  "item.exlinecopperequipment.copper_shovel": "Pelle en cuivre",
+
+  "item.exlinecopperequipment.copper_sword": "Épée en cuivre",
+
+  "item.exlinecopperequipment.copper_horse_armor": "Armure en cuivre pour cheval"
+
+  "item.exlinecopperequipment.copper_bucket": "Seau en cuivre",
+  "item.exlinecopperequipment.water_copper_bucket": "Seau d'eau en cuivre",
+  "item.exlinecopperequipment.copper_shears": "Cisaille en cuivre"
+
+}
